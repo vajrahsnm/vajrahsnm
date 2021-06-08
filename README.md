@@ -1,4 +1,4 @@
-## **Hi there :Wave:: I'm Vajrakumar**
+## **Hi there :Wave: I'm Vajrakumar**
 ## Welcome to my Github Profile
 * 🔭 I’m currently working on C, Python
 * 🌱 I’m currently learning Python and Competitive coding
