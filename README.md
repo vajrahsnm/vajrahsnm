@@ -7,6 +7,4 @@
 * 🤔 I’m looking for help in excel python programin, & Internships 
 * 💬 Ask me about C, Python
 * 📫 How to reach me:Contact me directly on this mail - vajrahsnm@gmail.com
-* 😄 Pronouns:you can give one
-* ⚡ Fun fact:i can work without music
 ###### [Facebook Link](https://www.facebook.com/M.Vajrakumar)
