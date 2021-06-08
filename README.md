@@ -7,7 +7,4 @@
 * 📫 How to reach me:Contact me directly on this mail - vajrahsnm@gmail.com
 * 😄 Pronouns:you can give one
 * ⚡ Fun fact:i can work without music
-###### [![Facebook link]](https://www.facebook.com/M.Vajrakumar)
-[Facebook link](https://www.facebook.com/M.Vajrakumar)
-
-![Facebook link](extras/logo.gif)
+###### [Facebook link](https://www.facebook.com/M.Vajrakumar)
