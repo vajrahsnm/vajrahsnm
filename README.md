@@ -1,4 +1,4 @@
-## **Hi there waving_hand:(Emojipedia) I'm Vajrakumar**
+## Hi there 👋🏻 I'm **Vajrakumar**
 ## Welcome to my Github Profile
 * 🔭 I’m currently working on C, Python
 * 🌱 I’m currently learning Python and Competitive coding
