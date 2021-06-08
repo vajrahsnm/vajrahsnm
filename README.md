@@ -1,5 +1,4 @@
 ## Welcome to my Github Profile
-[![Facebook logo image link](fb.gif)](https://www.facebook.com/M.Vajrakumar)
 * 🔭 I’m currently working on C, Python
 * 🌱 I’m currently learning Python and Competitive coding
 * 👯 I’m looking to collaborate on python projects
@@ -8,3 +7,4 @@
 * 📫 How to reach me:Contact me directly on this mail - vajrahsnm@gmail.com
 * 😄 Pronouns:you can give one
 * ⚡ Fun fact:i can work without music
+### facebook link: [![Facebook logo image link](fb.gif)](https://www.facebook.com/M.Vajrakumar)
