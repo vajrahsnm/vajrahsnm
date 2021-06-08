@@ -1,5 +1,5 @@
-## Hi there 👋🏻 I'm **Vajrakumar**
-## Welcome to my Github Profile
+### Hi there 👋🏻 I'm **Vajrakumar**
+##### Welcome to my Github Profile
 * 🔭 I’m currently working on C, Python
 * 🌱 I’m currently learning Python and Competitive coding
 * 👯 I’m looking to collaborate on python projects
