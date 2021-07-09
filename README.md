@@ -3,7 +3,7 @@
 ##### This is for# DevIncept!!
 ###### My interest lies in Data science, I'm pursuing Data science course
 * 🔭 I’m currently working on Python
-* 🌱 I’m currently learning Machine learning and Deep learning
+* 🌱 I’m currently learning Machine learning and Deep learning from DevIncept
 * 👯 I’m looking to collaborate on python projects
 * 🤔 I’m looking for help in excel python programing, shell script
 * 💬 Ask me about C, Python, c++
